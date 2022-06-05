@@ -1,5 +1,5 @@
 # ZHAW_DevOps_GruppeB
 
-Test Lukas 2
-Test Philip 3
-
+Test Philip
+Test 2 Philip
+Test Branche Philip
